@@ -11,10 +11,10 @@ def get_time():
     return time.strftime("%H:%M:%S")
 
 
-login_user = "r1vermont"
-login_pass = "aIanbsctdaegfrgahm"
+login_user = "XXXXXXX"
+login_pass = "XXXXXXX"
 
-start_profile = "r1vermont"  # Your Instagram profile, or the profile the bot should start crawling at.
+start_profile = "XXXXXXX"  # Your Instagram profile, or the profile the bot should start crawling at.
 max_depth = 4  # The number of profiles the bot should go past the initial page.
 
 url = "https://instagram.com/"
